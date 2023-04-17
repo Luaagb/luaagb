@@ -1,8 +1,8 @@
 Hi, I´m Luana Barros 😊 🌹
 
 - 🔭 I’m currently working Support Analyst.
-- 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me: barros.lg23@gmail.com
+
+
 
 <div align="center">
   <a href="https://github.com/luaagb">
