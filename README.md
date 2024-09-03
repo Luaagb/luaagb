@@ -1,7 +1,5 @@
 Hi, I´m Luana Barros 😊 🌹
 
-- 🔭 I’m currently working Support Analyst.
-
 
 
 <div align="center">
